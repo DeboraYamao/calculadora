@@ -1,0 +1,10 @@
+C:\Programas\tds\bin\Debug\tds.exe.config
+C:\Programas\tds\bin\Debug\tds.exe
+C:\Programas\tds\bin\Debug\tds.pdb
+C:\Programas\tds\obj\Debug\tds.csprojAssemblyReference.cache
+C:\Programas\tds\obj\Debug\tds.Properties.Resources.resources
+C:\Programas\tds\obj\Debug\tds.csproj.GenerateResource.cache
+C:\Programas\tds\obj\Debug\tds.exe
+C:\Programas\tds\obj\Debug\tds.pdb
+C:\Programas\tds\obj\Debug\tds.Form.resources
+C:\Programas\tds\obj\Debug\tds.Form2.resources
